@@ -19,4 +19,3 @@ This repository contains the code and resources for a machine learning project a
 1. [Data_cleaning](https://github.com/Noxfr69/Energy_Consumption_Prediction/blob/main/Data_cleaning_selection.ipynb): This notebook contains data cleaning, selection, and feature engineering steps.
 2. [Model_Training](https://github.com/Noxfr69/Energy_Consumption_Prediction/blob/main/Model_training.ipynb): This notebook focuses on training the machine learning models, including Lasso, Ridge, Random Forest, SVR, Gradient Boosting, and XGBoost.
 
-[Title](<Data cleaning and selection.ipynb>)
